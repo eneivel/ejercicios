@@ -33,3 +33,6 @@ header img{
   float: right;
   padding: 0.5% 2% 0 0;
 }
+#titulo{
+  display: inline-block;
+}
